@@ -15,5 +15,5 @@ async def on_message(message):
         await message.channel.send('Hello!')
 
 
-client.run('Nzg0NTUyNTcyOTc4OTg3MDE4.X8q9hQ.6DzBtxrfkkpdvzKiSEIYCPpSbI0')
+client.run('whoops token was put here by mistake')
 
